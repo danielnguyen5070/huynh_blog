@@ -1,8 +1,8 @@
 {
-  "name": "Steve Grant",
-  "title": "Wedding Planner",
+  "name": "Florrie Jacobs",
+  "title": "Makeup Artist",
   "description": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio.",
-  "thumbnail": "steve-grant.png",
+  "thumbnail": "florrie-jacobs.png",
   "social": [
     {
       "name": "Instagram",
@@ -17,5 +17,5 @@
       "url": "https://example.com"
     }
   ],
-  "skills": ["Wedding Planning", "Shopping Guide", "Makeup Artist"]
+  "skills": ["Beauty", "Wedding", "Makeup"]
 }
